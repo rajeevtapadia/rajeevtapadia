@@ -1,16 +1,17 @@
-### Hi there 👋
+```css
+┌[rajeevt@git]-(~)
+└> mefetch
+```
+ 
 
-<!--
-**rajeevtapadia/rajeevtapadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:block;text-align:left"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/1200px-Fedora_icon_%282021%29.svg.png" border="0" style="width:156px;">
+  
+  ```css
+  rajeevtapadia@GitHub
+  -----------------
+  Name: Rajeev
+  OS: Fedora Linux 38 x86_64
+  Shell: zsh 5.9
+  Uptime: 19 Years
+  ```
+</div>
