@@ -12,6 +12,8 @@
   Name: Rajeev
   OS: Fedora Linux 38 x86_64
   Shell: zsh 5.9
+  Languages: [C++, Python, JS]
+  Interests: [WebDev, Linux]
   Uptime: 19 Years
   ```
 </div>
