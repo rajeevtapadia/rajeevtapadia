@@ -1,6 +1,6 @@
 ```css
 ┌[rajeevt@git]-(~)
-└> mefetch
+└> npm run mefetch
 ```
  
 
@@ -10,9 +10,9 @@
   rajeevtapadia@GitHub
   -----------------
   Name: Rajeev
-  OS: Fedora Linux 38 x86_64
+  OS: Fedora Linux 39 x86_64
   Shell: zsh 5.9
-  Languages: [C++, Python, JS]
+  Languages: [C++, Python, JS, TS]
   Interests: [WebDev, Linux]
   Uptime: 19 Years
   ```
