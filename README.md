@@ -2,6 +2,6 @@
   rajeevtapadia@GitHub
   --------------------
   Name: Rajeev
-  Languages: [Java, JS, TS, GO, C++]
-  Interests: [WebDev, Linux]
+  Languages: [Java, C, JS, GO]
+  Interests: [LowLevel, Linux]
   ```
